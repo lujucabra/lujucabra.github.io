@@ -29,4 +29,5 @@ Here is a quick look at how nice code snippets look in Chirpy:
 def welcome_message(name):
     print(f"Welcome to the blog, {name}!")
 
-welcome_message("Reader")```
+welcome_message("Reader")
+```
